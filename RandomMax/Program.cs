@@ -19,8 +19,8 @@ namespace RandomMax
                 }
             }
 
-            Console.WriteLine("Largest random number - " + largestRandomNumber);
-
+            //Console.WriteLine("Largest random number - " + largestRandomNumber);
+            Console.WriteLine(largestRandomNumber);
             Console.ReadLine();
         }
     }
